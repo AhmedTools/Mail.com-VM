@@ -1,2 +1,19 @@
-# Mail.com-VM
-check emails available in mail.com [ VM ]
+# Email Checker - mail.com
+
+A simple tool to check whether an email is available or not.  
+Domain used : **mail.com**
+
+— — — — —
+
+⚠️ Note :
+In some countries, you may need to use a US VPN for the tool to work properly.
+
+— — — — —
+
+Don’t forget to interact with the post 💋
+
+— — — — —
+
+Telegram:
+Account: https://t.me/YYYaYY  
+Channel: https://t.me/AhmedTools0
