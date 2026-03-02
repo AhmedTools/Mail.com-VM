@@ -14,6 +14,6 @@ Don’t forget to interact with the post 💋
 
 — — — — —
 
-Telegram:
-Account: https://t.me/YYYaYY  
-Channel: https://t.me/AhmedTools0
+Telegram :
+Account : https://t.me/YYYaYY  
+Channel : https://t.me/AhmedTools0
